@@ -4,7 +4,7 @@ on: push
 
 jobs:
   smth:
-  name: try something
+  name: Lint code base
   runs-on: ubuntu-latest
   steps:
     - name: Checkout code
